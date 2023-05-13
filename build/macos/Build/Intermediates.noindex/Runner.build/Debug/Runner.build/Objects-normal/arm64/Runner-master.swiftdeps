@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "79ec695ef1da7bf4b521270cbc36dff8feaa1142edbed84c01d029ee5cf395b7"
+build_start_time: [1683729041, 943400000]
+build_end_time: [1683729049, 58982000]
+inputs:
+  "/Users/ilhamozip/Desktop/project/pasien/pasien_arifa_medikal/macos/Flutter/GeneratedPluginRegistrant.swift": [1683729027, 97120808]
+  "/Users/ilhamozip/Desktop/project/pasien/pasien_arifa_medikal/macos/Runner/AppDelegate.swift": [1681949587, 0]
+  "/Users/ilhamozip/Desktop/project/pasien/pasien_arifa_medikal/macos/Runner/MainFlutterWindow.swift": [1681949587, 0]

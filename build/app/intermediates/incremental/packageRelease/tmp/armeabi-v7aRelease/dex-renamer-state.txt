@@ -1,0 +1,4 @@
+#Wed May 10 23:32:57 WIB 2023
+base.0=/Users/ilhamozip/Desktop/project/pasien/pasien_arifa_medikal/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
